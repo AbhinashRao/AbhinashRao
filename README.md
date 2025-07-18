@@ -40,14 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinashRao&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinashRao&layout=compact&theme=tokyonight)
-
----
-
 ## 📜 Certifications
 - Infosys Springboard – Python, Java, AI
 - Cisco Networking Academy – Python & Networking
