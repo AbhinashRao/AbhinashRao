@@ -10,16 +10,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [AI-Powered Resume Analyzer](https://github.com/AbhinashRao/AI-Powered-Resume-Analyzer) | Analyzes resumes & recommends jobs using ML | Python, Flask, scikit-learn, TF-IDF |
-| [ShopEase – E-Commerce](https://github.com/AbhinashRao/ShopEase) | Full-stack e-commerce app with admin panel & payments | React, Node.js, MongoDB, Braintree |
-| [TrustLink – Phishing URL Detection](https://github.com/AbhinashRao/AI-URL-Phishing-Detection) | Detects phishing/malware URLs with AI & browser alerts | Flask, Transformers, Streamlit, Tampermonkey |
-| [Smart-Recruit (N8N + Gemini AI)](https://github.com/AbhinashRao) | Resume screening automation for recruiters | N8N, Google APIs, Gemini AI, Workflow Automation |
-
----
 
 ## 🧠 Skills & Tools
 
